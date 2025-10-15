@@ -1,3 +1,6 @@
+📁 Repository Archived
+This repository has been archived as part of ongoing changes to align with ONS GitHub usage policies. No further updates will be made.
+
 # SDG 6.6.1 Analysis and Reporting
 
 The Sustainable Development Goals (SDGs) have been developed by the United Nations as a “blueprint to achieve a better and more sustainable future for all”; designed to end poverty, 
